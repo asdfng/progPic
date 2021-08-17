@@ -1,7 +1,0 @@
-import os
-import click
-ikmport datetime
-from pyicloud import PyiCloudService
-
-print("Setup Time Zone")
-time.strftime("%X %x %Z
